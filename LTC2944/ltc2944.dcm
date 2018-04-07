@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LTC2944
+D LTC2944, DFN-8-1EP_3x3mm_Pitch0.5mm, Linear Technology, MONITORING, FUEL GAUGE / I2C, 60Vin, null, 100uA, 1%, -40° to 85°
+K U, LTC2944, DFN-8-1EP_3x3mm_Pitch0.5mm
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP K_
+D 874380343 , PicoSPOX-3, Molex, 3p, 5ppr, 3A, fem
+K K, K_0002, PicoSPOX-5
+$ENDCMP
+#
+$CMP K_00xx
+D 0874380543, PicoSPOX-5, Molex, 5p, 5ppr, 3A, fem, B01-M00
+K K, K_0002, PicoSPOX-5
+$ENDCMP
+#
+#End Doc Library
