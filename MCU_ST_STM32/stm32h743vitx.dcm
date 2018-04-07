@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP STM32H743VITx
+D Core: ARM Cortex-M7, Package: LQFP100, Flash: 2 MB, RAM: 1 MB, Frequency: 400 MHz, Voltage: 1.7..3.6V, I/O pins: 82
+K ARM Cortex-M7 STM32H7 STM32H7x3
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00166114.pdf
+$ENDCMP
+#
+#End Doc Library
