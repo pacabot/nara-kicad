@@ -3450,8 +3450,7 @@ F 2 "n.c" V 3775 850 50  0001 C CNN
 F 3 "n.c" V 3700 850 50  0001 C CNN
 F 4 "K_" V 3850 850 50  0001 C CNN "sIdProduct"
 F 5 "n.c" V 3925 850 50  0001 C CNN "details"
-F 6 "n.c" V 4000 850 50  0001 C CNN "fabricant
-"
+F 6 "n.c" V 4000 850 50  0001 C CNN "fabricant"
 	1    3525 850 
 	-1   0    0    1   
 $EndComp
