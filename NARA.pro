@@ -1,4 +1,4 @@
-update=dim. 08 avril 2018 13:01:44 CEST
+update=lun. 09 avril 2018 00:26:09 CEST
 version=1
 last_client=kicad
 [pcbnew]
@@ -46,3 +46,13 @@ LibName14=/home/zhonx/Documents/Devisubox/hardware/kicad/lib/DVB_lib/DVB_TR
 LibName15=/home/zhonx/Documents/Devisubox/hardware/kicad/lib/DVB_lib/DVB_U
 LibName16=/home/zhonx/Documents/Devisubox/hardware/kicad/lib/DVB_lib/DVB_XO
 LibName17=NARA_Lib/nara
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60

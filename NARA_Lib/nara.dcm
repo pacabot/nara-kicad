@@ -35,11 +35,6 @@ K ARM Cortex-M7 STM32H7 STM32H7x3
 F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00166114.pdf
 $ENDCMP
 #
-$CMP SW_
-D Generic button 
-K but, button, switch, sIdProduct, keywords...
-$ENDCMP
-#
 $CMP SW_KMR2
 D Generic button 
 K but, button, switch, sIdProduct, keywords...
