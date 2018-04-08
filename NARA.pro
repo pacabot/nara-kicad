@@ -1,4 +1,4 @@
-update=sam. 07 avril 2018 12:04:32 CEST
+update=dim. 08 avril 2018 13:01:44 CEST
 version=1
 last_client=kicad
 [pcbnew]
@@ -45,11 +45,4 @@ LibName13=/home/zhonx/Documents/Devisubox/hardware/kicad/lib/DVB_lib/DVB_SW
 LibName14=/home/zhonx/Documents/Devisubox/hardware/kicad/lib/DVB_lib/DVB_TR
 LibName15=/home/zhonx/Documents/Devisubox/hardware/kicad/lib/DVB_lib/DVB_U
 LibName16=/home/zhonx/Documents/Devisubox/hardware/kicad/lib/DVB_lib/DVB_XO
-LibName17=L6234/L6234
-LibName18=ICM-20689/icm-20689
-LibName19=QRE1113GR/qre1113gr
-LibName20=PICOSPOX_3/PICOSPOX_3
-LibName21=LTC2944/ltc2944
-LibName22=Connectors/Conn_uart
-LibName23=LTC2955/ltc2955ts8-1
-LibName24=MCU_ST_STM32/stm32h743vitx
+LibName17=NARA_Lib/nara
