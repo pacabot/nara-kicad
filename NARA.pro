@@ -1,4 +1,4 @@
-update=lun. 09 avril 2018 00:26:09 CEST
+update=jeu. 12 avril 2018 23:05:42 CEST
 version=1
 last_client=kicad
 [pcbnew]
@@ -25,27 +25,6 @@ version=1
 NetIExt=net
 [general]
 version=1
-[eeschema]
-version=1
-LibDir=
-[eeschema/libraries]
-LibName1=NARA-rescue
-LibName2=/home/zhonx/Documents/Devisubox/hardware/kicad/lib/DVB_lib/DVB_C
-LibName3=/home/zhonx/Documents/Devisubox/hardware/kicad/lib/DVB_lib/DVB_D
-LibName4=/home/zhonx/Documents/Devisubox/hardware/kicad/lib/DVB_lib/DVB_Display
-LibName5=/home/zhonx/Documents/Devisubox/hardware/kicad/lib/DVB_lib/DVB_F
-LibName6=/home/zhonx/Documents/Devisubox/hardware/kicad/lib/DVB_lib/DVB_Generic
-LibName7=/home/zhonx/Documents/Devisubox/hardware/kicad/lib/DVB_lib/DVB_K
-LibName8=/home/zhonx/Documents/Devisubox/hardware/kicad/lib/DVB_lib/DVB_L
-LibName9=/home/zhonx/Documents/Devisubox/hardware/kicad/lib/DVB_lib/DVB_Power
-LibName10=/home/zhonx/Documents/Devisubox/hardware/kicad/lib/DVB_lib/DVB_Q
-LibName11=/home/zhonx/Documents/Devisubox/hardware/kicad/lib/DVB_lib/DVB_R
-LibName12=/home/zhonx/Documents/Devisubox/hardware/kicad/lib/DVB_lib/DVB_SP
-LibName13=/home/zhonx/Documents/Devisubox/hardware/kicad/lib/DVB_lib/DVB_SW
-LibName14=/home/zhonx/Documents/Devisubox/hardware/kicad/lib/DVB_lib/DVB_TR
-LibName15=/home/zhonx/Documents/Devisubox/hardware/kicad/lib/DVB_lib/DVB_U
-LibName16=/home/zhonx/Documents/Devisubox/hardware/kicad/lib/DVB_lib/DVB_XO
-LibName17=NARA_Lib/nara
 [schematic_editor]
 version=1
 PageLayoutDescrFile=
@@ -56,3 +35,23 @@ NetFmtName=
 SpiceForceRefPrefix=0
 SpiceUseNetNumbers=0
 LabSize=60
+[eeschema]
+version=1
+LibDir=
+[eeschema/libraries]
+LibName1=/home/zhonx/Documents/Devisubox/hardware/kicad/lib/DVB_lib/DVB_C
+LibName2=/home/zhonx/Documents/Devisubox/hardware/kicad/lib/DVB_lib/DVB_D
+LibName3=/home/zhonx/Documents/Devisubox/hardware/kicad/lib/DVB_lib/DVB_Display
+LibName4=/home/zhonx/Documents/Devisubox/hardware/kicad/lib/DVB_lib/DVB_F
+LibName5=/home/zhonx/Documents/Devisubox/hardware/kicad/lib/DVB_lib/DVB_Generic
+LibName6=/home/zhonx/Documents/Devisubox/hardware/kicad/lib/DVB_lib/DVB_K
+LibName7=/home/zhonx/Documents/Devisubox/hardware/kicad/lib/DVB_lib/DVB_L
+LibName8=/home/zhonx/Documents/Devisubox/hardware/kicad/lib/DVB_lib/DVB_Power
+LibName9=/home/zhonx/Documents/Devisubox/hardware/kicad/lib/DVB_lib/DVB_Q
+LibName10=/home/zhonx/Documents/Devisubox/hardware/kicad/lib/DVB_lib/DVB_R
+LibName11=/home/zhonx/Documents/Devisubox/hardware/kicad/lib/DVB_lib/DVB_SP
+LibName12=/home/zhonx/Documents/Devisubox/hardware/kicad/lib/DVB_lib/DVB_SW
+LibName13=/home/zhonx/Documents/Devisubox/hardware/kicad/lib/DVB_lib/DVB_TR
+LibName14=/home/zhonx/Documents/Devisubox/hardware/kicad/lib/DVB_lib/DVB_U
+LibName15=/home/zhonx/Documents/Devisubox/hardware/kicad/lib/DVB_lib/DVB_XO
+LibName16=NARA_Lib/nara

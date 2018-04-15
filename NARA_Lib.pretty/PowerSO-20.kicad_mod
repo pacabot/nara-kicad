@@ -1,5 +1,5 @@
-(module PowerSO-20 (layer F.Cu) (tedit 5ACBE57A)
-  (fp_text reference REF** (at 9.017 0 90) (layer F.SilkS)
+(module PowerSO-20 (layer F.Cu) (tedit 5ACE7430)
+  (fp_text reference REF** (at 9 0 90) (layer F.SilkS)
     (effects (font (size 0.7 0.7) (thickness 0.127)))
   )
   (fp_text value POWERSO20 (at -8.89 0 90) (layer F.SilkS) hide
@@ -9,7 +9,7 @@
   (fp_line (start 8.89 8.255) (end -8.89 8.255) (layer F.CrtYd) (width 0.05))
   (fp_line (start 8.89 -8.255) (end 8.89 8.255) (layer F.CrtYd) (width 0.05))
   (fp_line (start -8.89 -8.255) (end 8.89 -8.255) (layer F.CrtYd) (width 0.05))
-  (fp_text user REF** (at 0 0) (layer F.Fab)
+  (fp_text user REF** (at 9 0 90) (layer F.Fab)
     (effects (font (size 0.7 0.7) (thickness 0.127)))
   )
   (fp_line (start 8.382 5.588) (end -7.366 5.588) (layer F.SilkS) (width 0.1))
@@ -134,4 +134,9 @@
   (pad 20 thru_hole circle (at -7.62 -3.81) (size 1.2 1.2) (drill 0.6) (layers *.Cu))
   (pad 20 thru_hole circle (at -7.62 -2.54) (size 1.2 1.2) (drill 0.6) (layers *.Cu))
   (pad 20 thru_hole circle (at -6.35 -2.54) (size 1.2 1.2) (drill 0.6) (layers *.Cu))
+  (model DVB_3d/DVB_SO_SOIC_SMD.3dshapes/PowerSO20.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )

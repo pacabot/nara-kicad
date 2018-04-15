@@ -15,6 +15,11 @@ D 47uF, EIA-7343–31, 25V, TANTALE
 K C, 47uF, EIA-7343–31
 $ENDCMP
 #
+$CMP K_FPC_52435-2471
+D 52435-2471, FPC_52435-2471, Molex, CONN, FPC female SMD R/A, 24p, 1ppr
+K flex 
+$ENDCMP
+#
 $CMP K_KK-41791-02
 D CTB93HE/2, CTB93HE-2, Camdenboss, CONN, Terminal block female R/A, 2p, 1ppr
 $ENDCMP
@@ -36,6 +41,11 @@ F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datas
 $ENDCMP
 #
 $CMP SW_KMR2
+D Generic button 
+K but, button, switch, sIdProduct, keywords...
+$ENDCMP
+#
+$CMP SW_SKQG
 D Generic button 
 K but, button, switch, sIdProduct, keywords...
 $ENDCMP
